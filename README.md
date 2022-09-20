@@ -13,13 +13,13 @@ Laravel Framework version is 6.20.44 .This video helped me a lot in connecting t
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/hader-afat/Laravel_with_neo4j
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Laravel_with_neo4j-main
 ```
 
 Install dependencies
